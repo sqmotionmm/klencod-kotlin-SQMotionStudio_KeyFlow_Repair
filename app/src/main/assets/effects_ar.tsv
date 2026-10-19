@@ -1,0 +1,476 @@
+your workbench	مساحة عملك
+import project file	استيراد ملف مشروع
+new project	مشروع جديد
+new project	مشروع جديد
+free	مجاني
+free	مجاني
+pro	برو
+keyflow pro	كي فلو برو
+settings	الإعدادات
+help	المساعدة
+language	اللغة
+english	English
+report a problem	الإبلاغ عن مشكلة
+send last crash report	إرسال آخر تقرير انهيار
+send report	إرسال التقرير
+send	إرسال
+manage subscription	إدارة الاشتراك
+restore purchases	استعادة المشتريات
+back to editor	العودة إلى المحرر
+refresh status	تحديث الحالة
+upgrade to pro	الترقية إلى برو
+unlock pro to export	افتح برو للتصدير
+unlock every effect and tool	افتح كل التأثيرات والأدوات
+unlock all pro effects, camera and speed ramps	افتح كل تأثيرات برو والكاميرا ومنحنيات السرعة
+pro is active	برو مفعّل
+best value	الأفضل قيمة
+monthly	شهري
+weekly	أسبوعي
+yearly	سنوي
+subscribe	اشتراك
+thanks for supporting keyflow. every pro effect and feature is unlocked.	شكرًا لدعمك Keyflow. كل تأثيرات وميزات برو مفتوحة.
+support independent development	ادعم التطوير المستقل
+supporting	داعم
+export	تصدير
+export project	تصدير المشروع
+export project file	تصدير ملف المشروع
+export complete!	اكتمل التصدير!
+export failed	فشل التصدير
+include media	تضمين الوسائط
+cancel	إلغاء
+close	إغلاق
+done	تم
+save	حفظ
+save to gallery	حفظ في المعرض
+share	مشاركة
+saving…	جارٍ الحفظ…
+saving...	جارٍ الحفظ...
+saving to gallery...	جارٍ الحفظ في المعرض...
+packaging…	جارٍ التجهيز…
+preparing assets...	جارٍ تجهيز الملفات...
+compressing video...	جارٍ ضغط الفيديو...
+capturing frame...	جارٍ التقاط الإطار...
+capture frame (png)	التقاط إطار (PNG)
+preview export	معاينة التصدير
+preview capture	معاينة الالتقاط
+resolution	الدقة
+frame rate	معدل الإطارات
+frame rate (fps)	معدل الإطارات (FPS)
+video output format	صيغة إخراج الفيديو
+video codec	ترميز الفيديو
+audio codec	ترميز الصوت
+bitrate	معدل البت
+estimated file size	حجم الملف المقدّر
+file name	اسم الملف
+file size	حجم الملف
+sample rate	معدل العينة
+format	الصيغة
+target size	الحجم المستهدف
+check the result before saving. not saved to the gallery yet.	تحقق من النتيجة قبل الحفظ. لم يُحفظ في المعرض بعد.
+rendering video frames (	جارٍ تصيير إطارات الفيديو (
+export project 	تصدير المشروع 
+open settings	فتح الإعدادات
+open google play	فتح Google Play
+try again	حاول مرة أخرى
+try again	حاول مرة أخرى
+tap	اضغط
+loading…	جارٍ التحميل…
+reading…	جارٍ القراءة…
+reading project…	جارٍ قراءة المشروع…
+layers keep their animation, but the video, images and audio will be missing.	تحتفظ الطبقات بحركتها لكن الفيديو والصور والصوت ستكون مفقودة.
+that file is not a keyflow project.	هذا الملف ليس مشروع Keyflow.
+made by a newer version of keyflow. update the app first.	أُنشئ بنسخة أحدث من Keyflow. حدّث التطبيق أولًا.
+imported project	مشروع مستورد
+exported from	مُصدَّر من
+import	استيراد
+import media	استيراد وسائط
+import font	استيراد خط
+could not read that file.	تعذّرت قراءة هذا الملف.
+no projects yet	لا توجد مشاريع بعد
+create project	إنشاء مشروع
+project name	اسم المشروع
+project settings	إعدادات المشروع
+rename	إعادة تسمية
+rename project	إعادة تسمية المشروع
+delete	حذف
+duplicate	تكرار
+project	مشروع
+recent	الأحدث
+another project already uses this name	مشروع آخر يستخدم هذا الاسم
+add effect	إضافة تأثير
+search effects	بحث في التأثيرات
+effects	التأثيرات
+effect copied	تم نسخ التأثير
+copy effect	نسخ التأثير
+add media	إضافة وسائط
+add animator	إضافة محرّك حركة
+add shape layer	إضافة طبقة شكل
+add to group	إضافة إلى مجموعة
+add to project	إضافة إلى المشروع
+remove from group	إزالة من المجموعة
+ungroup	فك التجميع
+group	مجموعة
+add corner	إضافة زاوية
+add curve	إضافة منحنى
+add point on line	إضافة نقطة على الخط
+add point at middle	إضافة نقطة في المنتصف
+copy animation	نسخ الحركة
+animation copied	تم نسخ الحركة
+copy curve	نسخ المنحنى
+paste curve	لصق المنحنى
+save as preset	حفظ كإعداد مسبق
+presets	إعدادات مسبقة
+layer	طبقة
+layers	الطبقات
+layer text	طبقة نص
+layer shape	طبقة شكل
+layer solid	طبقة لون
+layer vector	طبقة متجهة
+layer adjustment	طبقة ضبط
+adjustment layer	طبقة ضبط
+3d layer	طبقة ثلاثية الأبعاد
+text	نص
+edit text	تحرير النص
+type text here...	اكتب النص هنا...
+text animation	حركة النص
+font	الخط
+bold	عريض
+italic	مائل
+audio	صوت
+audio layer	طبقة صوت
+mute	كتم
+volume	مستوى الصوت
+extract audio	استخراج الصوت
+audio extracted to a new track (video muted)	تم استخراج الصوت إلى مسار جديد (الفيديو مكتوم)
+search audio or artist	ابحث عن صوت أو فنان
+videos	فيديوهات
+photos	صور
+camera	الكاميرا
+choose from device	اختيار من الجهاز
+browse all folders	تصفح كل المجلدات
+use file manager	استخدام مدير الملفات
+media access is needed to show your gallery inside the app.	مطلوب إذن الوصول للوسائط لعرض معرضك داخل التطبيق.
+requesting media access…	جارٍ طلب الوصول للوسائط…
+position	الموضع
+position x	الموضع X
+position y	الموضع Y
+position z	الموضع Z
+rotation	الدوران
+rotation x	الدوران X
+rotation y	الدوران Y
+rotation z	الدوران Z
+scale	المقياس
+scale x	المقياس X
+scale y	المقياس Y
+scale (%)	المقياس (%)
+anchor	نقطة الارتكاز
+anchor x	الارتكاز X
+anchor y	الارتكاز Y
+anchor & align	الارتكاز والمحاذاة
+opacity	الشفافية
+opacity (%)	الشفافية (%)
+opacity 	الشفافية 
+size	الحجم
+width	العرض
+height	الارتفاع
+angle	الزاوية
+amount	الكمية
+amplitude	السعة
+speed	السرعة
+playback speed	سرعة التشغيل
+speed ramps	منحنيات السرعة
+frequency	التردد
+offset	الإزاحة
+depth	العمق
+distance	المسافة
+thickness	السماكة
+smoothness	النعومة
+feather	التدرّج
+blend	المزج
+blending	المزج
+blend mode	وضع المزج
+blend strength	قوة المزج
+hue	تدرج اللون
+saturation	التشبّع
+brightness	السطوع
+contrast	التباين
+color	اللون
+solid color	لون ثابت
+border color	لون الحدود
+background	الخلفية
+gradient	تدرّج
+gradient start	بداية التدرج
+gradient end	نهاية التدرج
+invert	عكس
+inverted	معكوس
+reverse	عكس الاتجاه
+normal	عادي
+multiply	ضرب
+screen	شاشة
+overlay	تراكب
+darken	تغميق
+lighten	تفتيح
+color dodge	تفتيح اللون
+color burn	حرق اللون
+hard light	ضوء قوي
+soft light	ضوء ناعم
+difference	فرق
+exclusion	استثناء
+luminosity	اللمعان
+add	إضافة
+blur	ضبابية
+blur size	حجم الضبابية
+distort	تشويه
+stylize	تنميط
+generate	توليد
+generator	مولّد
+keying	إزالة الخلفية
+transition	انتقال
+motion	حركة
+simulation	محاكاة
+warna	لون
+gerak	حركة
+simulasi	محاكاة
+distorsi	تشويه
+stilisasi	تنميط
+transisi	انتقال
+roto	روتو
+wave	موجة
+waves	أمواج
+star	نجمة
+heart	قلب
+circle	دائرة
+ellipse	إهليلج
+rectangle	مستطيل
+rect	مستطيل
+rounded rect	مستطيل مستدير
+triangle	مثلث
+diamond	معيّن
+hexagon	سداسي
+pentagon	خماسي
+octagon	ثماني
+arrow	سهم
+cross	صليب
+line	خط
+plus	زائد
+ring	حلقة
+pie	قطاع
+bubble	فقاعة
+flower	زهرة
+gear	ترس
+lens	عدسة
+hub	محور
+bolt	برق
+blob	بقعة
+dash	شرطة
+dash offset	إزاحة الشرطة
+stroke	حد خارجي
+stroke w	سُمك الحد
+fill	تعبئة
+fill canvas	ملء اللوحة
+fit to canvas	ملاءمة اللوحة
+fit to view	ملاءمة العرض
+align to canvas	محاذاة للوحة
+flip horizontal	قلب أفقي
+flip vertical	قلب عمودي
+rotate horizontal	تدوير أفقي
+rotate vertical	تدوير عمودي
+mask	قناع
+masks	أقنعة
+masking	تقنيع
+mask opacity	شفافية القناع
+delete mask	حذف القناع
+duplicate mask	تكرار القناع
+new path	مسار جديد
+closed path	مسار مغلق
+close path	إغلاق المسار
+delete points	حذف النقاط
+add or pick a mask first.	أضف قناعًا أو اخترْ واحدًا أولًا.
+no masks yet. add one to cut this layer to a shape.	لا توجد أقنعة. أضف قناعًا لقص الطبقة على شكل.
+show handles	إظهار المقابض
+hide handles	إخفاء المقابض
+move mode	وضع التحريك
+move point	تحريك النقطة
+move handle	تحريك المقبض
+next point	النقطة التالية
+previous point	النقطة السابقة
+keyframes	الإطارات المفتاحية
+ease	تخفيف
+linear	خطي
+hold	تثبيت
+bezier	بيزييه
+smooth	سلس
+custom	مخصص
+curve type	نوع المنحنى
+drag to pick	اسحب للاختيار
+tap the curve to add a point · drag a point off the grid to remove it	اضغط على المنحنى لإضافة نقطة · اسحب النقطة خارج الشبكة لحذفها
+need at least 2 keyframes to edit easing	يلزم إطاران مفتاحيان على الأقل لتعديل التخفيف
+shape this curve in the ease tab	شكّل هذا المنحنى من تبويب التخفيف
+drag the keyframes at the ends of the clip: further apart is slower, closer is faster.	اسحب الإطارين المفتاحيين في طرفي المقطع: كلما ابتعدا كان أبطأ وكلما اقتربا كان أسرع.
+speed ramping works on video and audio clips.	منحنى السرعة يعمل على مقاطع الفيديو والصوت.
+a speed that changes over time (a ramp) needs pro to export. a constant speed is free.	السرعة المتغيرة بمرور الوقت تحتاج برو للتصدير. السرعة الثابتة مجانية.
+everything works in the editor. exporting it needs keyflow pro.	كل شيء يعمل في المحرر، لكن تصديره يحتاج Keyflow برو.
+this project uses pro features	يستخدم هذا المشروع ميزات برو
+all pro effects: glow, particular, chroma key & more	كل تأثيرات برو: التوهج والجسيمات وإزالة الخلفية والمزيد
+tracking	التتبّع
+track again	تتبّع مجددًا
+track camera	تتبّع الكاميرا
+track whole clip	تتبّع المقطع كاملًا
+tracking failed.	فشل التتبّع.
+analyze again	تحليل مجددًا
+analyzing footage… 	جارٍ تحليل اللقطات… 
+stabilizer	المثبّت
+stabilizer off	المثبّت متوقف
+video stabilizer	مثبّت الفيديو
+stabilize	تثبيت
+start roto brush	بدء فرشاة الروتو
+roto brush works on video layers.	فرشاة الروتو تعمل على طبقات الفيديو.
+roto brush failed. try again.	فشلت فرشاة الروتو. حاول مرة أخرى.
+undo stroke	تراجع عن الخط
+3d camera	كاميرا ثلاثية الأبعاد
+3d view	عرض ثلاثي الأبعاد
+active camera	الكاميرا النشطة
+custom view	عرض مخصص
+optical flow	التدفق البصري
+frame blend	مزج الإطارات
+frame interpolation	استيفاء الإطارات
+interface size	حجم الواجهة
+follow android	اتباع أندرويد
+large (115%)	كبير (115%)
+larger (130%)	أكبر (130%)
+use the size from android's display settings as it is	استخدام الحجم من إعدادات العرض في أندرويد كما هو
+highlight mode	وضع التمييز
+empty audio cache	إفراغ ذاكرة الصوت المؤقتة
+auto	تلقائي
+automatic	تلقائي
+off	إيقاف
+none	لا شيء
+all	الكل
+default	افتراضي
+reset	إعادة ضبط
+reset to default	إعادة الضبط للافتراضي
+remove	إزالة
+clear	مسح
+clear search	مسح البحث
+select	تحديد
+deselect	إلغاء التحديد
+options	خيارات
+more	المزيد
+see all	عرض الكل
+back	رجوع
+next	التالي
+start	البداية
+end	النهاية
+coming soon	قريبًا
+loading the object model…	جارٍ تحميل النموذج…
+finding the object…	جارٍ إيجاد الجسم…
+time	الوقت
+duration	المدة
+clip length	طول المقطع
+source duration	مدة المصدر
+marker name	اسم العلامة
+name marker	تسمية العلامة
+snap	محاذاة
+lock aspect ratio	قفل نسبة العرض للارتفاع
+aspect ratio	نسبة العرض للارتفاع
+aspect	النسبة
+orientation	الاتجاه
+same size as the composition	بنفس حجم التركيب
+make comp size	جعله بحجم التركيب
+crop & auto-scale	قص وتحجيم تلقائي
+separate scale	مقياس منفصل
+link scale x/y	ربط المقياس X/Y
+scale x and y apart	فصل المقياس X وY
+not enough free space on this phone for that project.	لا توجد مساحة كافية على الهاتف لهذا المشروع.
+not enough free storage to render this video. free up some space and try again.	لا توجد مساحة كافية لتصيير الفيديو. حرّر بعض المساحة وحاول مجددًا.
+an error occurred during export.	حدث خطأ أثناء التصدير.
+the rendered video is no longer available. please export again.	الفيديو المُصيَّر لم يعد متاحًا. صدّر مجددًا.
+this project has no layers to export yet.	لا توجد طبقات في هذا المشروع للتصدير.
+resolution was lowered automatically to match the device's capability.	خُفِّضت الدقة تلقائيًا لتناسب قدرة الجهاز.
+this device's video encoder refused the export. try a lower resolution or frame rate.	رفض مرمّز الفيديو في الجهاز التصدير. جرّب دقة أو معدل إطارات أقل.
+the video was saved without its sound: mixing the audio failed on this device.	حُفظ الفيديو بدون صوت: فشل دمج الصوت على هذا الجهاز.
+too big for a discord upload. save it, then send it through google drive.	كبير جدًا للرفع على ديسكورد. احفظه ثم أرسله عبر Google Drive.
+the app closed unexpectedly	أُغلق التطبيق بشكل غير متوقع
+keyflow crash report	تقرير انهيار Keyflow
+keyflow problem report	تقرير مشكلة Keyflow
+what went wrong	ما الذي حدث
+what you did just before (optional)	ماذا فعلتَ قبل ذلك (اختياري)
+what you expected, and what happened instead	ما توقعته وما حدث بدلًا منه
+the steps that lead to it, if you can repeat it	الخطوات المؤدية إليه إن أمكنك تكراره
+one-line summary	ملخص في سطر واحد
+copy device info	نسخ معلومات الجهاز
+couldn't confirm your pro	تعذّر تأكيد اشتراك برو
+payment pending. pro unlocks as soon as the payment completes.	الدفع قيد الانتظار. يُفتح برو فور اكتمال الدفع.
+swipe to move	اسحب للتحريك
+swipe here to move the layer	اسحب هنا لتحريك الطبقة
+long-press to delete	اضغط مطولًا للحذف
+lift to release	ارفع لإفلات
+keep holding…	استمر بالضغط…
+add and drag	أضف واسحب
+drag the center to move. drag the edges to resize. pinch to zoom.	اسحب المركز للتحريك. اسحب الحواف لتغيير الحجم. اقرص للتكبير.
+pick from preview	اختيار من المعاينة
+swap colors	تبديل الألوان
+save color	حفظ اللون
+saved palette	لوحة محفوظة
+colors	الألوان
+photos 	صور 
+active	نشط
+completed	مكتمل
+cancelled	ملغى
+success	نجاح
+status	الحالة
+value	القيمة
+mode	النمط
+method	الطريقة
+label	التسمية
+name	الاسم
+type	النوع
+count	العدد
+steps	الخطوات
+random	عشوائي
+both	كلاهما
+top	أعلى
+bottom	أسفل
+left	يسار
+right	يمين
+center x	المركز X
+center y	المركز Y
+spacing	التباعد
+sides	الأضلاع
+points	النقاط
+round	مستدير
+edge	الحافة
+show edges	إظهار الحواف
+tail	الذيل
+head	الرأس
+lobes	الفصوص
+petals	البتلات
+bumps	النتوءات
+burst	انفجار
+seed	البذرة
+wiggle seed	بذرة الاهتزاز
+decay	التلاشي
+bounces	الارتدادات
+bounciness	المرونة
+overshoot	التجاوز
+oscillations	التذبذبات
+taper start	بداية التدبيب
+taper end	نهاية التدبيب
+taper ease	تخفيف التدبيب
+theme color & icon	لون التطبيق والأيقونة
+language (english / arabic)	اللغة (English / العربية)
+~ projects · 	 مشاريع · 
+~ project · 	 مشروع · 
+~ on device	 على الجهاز
+~2 projects	مشروعان
+~1 project	مشروع واحد
+~ media files not included. Use Replace Media on those layers.	 ملفات وسائط غير مضمّنة. استخدم «استبدال الوسائط» على تلك الطبقات.
+~ media file not included. Use Replace Media on those layers.	 ملف وسائط غير مضمّن. استخدم «استبدال الوسائط» على تلك الطبقة.
+~Imported as 	تم الاستيراد باسم 
+~ media files	 ملفات وسائط
+~ media file	 ملف وسائط
+~No media in this project	لا توجد وسائط في هذا المشروع
+~Saved to 	تم الحفظ في 
+~Video saved to the gallery	تم حفظ الفيديو في المعرض
+~Image saved to the gallery	تم حفظ الصورة في المعرض
+~Rendering video frames	جارٍ تصيير إطارات الفيديو
